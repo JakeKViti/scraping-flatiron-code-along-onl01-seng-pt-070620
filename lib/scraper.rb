@@ -17,4 +17,8 @@ class Scraper
     end
   end
 
+  def get_page
+      # more code coming soon!
+  end
+
 end
